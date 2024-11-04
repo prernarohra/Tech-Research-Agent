@@ -8,3 +8,4 @@ Tech Research Agent is an AI-Based research assistant built with OpenAI's API, S
 - Natural Language Understanding: Leverages OpenAI’s API to interpret user queries and deliver accurate responses.
 - Vector Database: Uses Pinecone for efficient storage and retrieval of information based on semantic similarity.
 - Web Search Integration: Integrates SERPAPI to pull up-to-date information directly from the web.
+- Hugging Face Dataset: Utilizes a tech news dataset from Hugging Face for added contextual information.
