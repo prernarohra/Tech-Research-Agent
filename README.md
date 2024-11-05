@@ -25,8 +25,8 @@ Tech Research Agent is an AI-Based research assistant built with OpenAI's API, S
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/prernarohra/Tech-Research-Agent.git
 
 # Navigate to the project directory
-cd your-repository-name
+cd Tech-Research-Agent
 ```
