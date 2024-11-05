@@ -17,3 +17,6 @@ Tech Research Agent is an AI-Based research assistant built with OpenAI's API, S
 - OpenAI API Key
 - SerpAPI Key
 - Pinecone Vector Database
+- LangChain
+- LangGraph
+- HuggingFace Datasets
