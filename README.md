@@ -20,3 +20,13 @@ Tech Research Agent is an AI-Based research assistant built with OpenAI's API, S
 - LangChain
 - LangGraph
 - HuggingFace Datasets
+
+## 🔧 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/your-repository-name.git
+
+# Navigate to the project directory
+cd your-repository-name
+```
