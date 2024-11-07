@@ -41,7 +41,8 @@ touch .env
 
 3. In the .env file, add the required API keys and database configurations:
 
+```bash
 OPENAI_API_KEY=YOUR_OPENAI_API_KEY
 SERPAPI_KEY=YOUR_SERPAPI_KEY
 PINECONE_API_KEY=YOUR_PINECONE_API_KEY
-
+```
