@@ -46,3 +46,9 @@ OPENAI_API_KEY=YOUR_OPENAI_API_KEY
 SERPAPI_KEY=YOUR_SERPAPI_KEY
 PINECONE_API_KEY=YOUR_PINECONE_API_KEY
 ```
+
+4. Run the file:
+
+```bash
+python tech-agent.py
+```
