@@ -50,5 +50,5 @@ PINECONE_API_KEY=YOUR_PINECONE_API_KEY
 4. Run the file:
 
 ```bash
-python tech-agent.py
+python Tech_Agent.py
 ```
