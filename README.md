@@ -38,3 +38,5 @@ cd Tech-Research-Agent
 ```bash
 touch .env
 ```
+
+3. In the .env file, add the required API keys and database configurations:
