@@ -56,3 +56,8 @@ python Tech_Agent.py
 ## Usage
 
 1. API Key Replacement:
+- Replace YOUR_OPENAI_API_KEY with your OpenAI API key.
+- Replace YOUR_SERPAPI_KEY with your SERPAPI key.
+- Replace YOUR_PINECONE_API_KEY with your Pinecone API key.
+  
+2. 
