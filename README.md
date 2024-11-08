@@ -52,3 +52,7 @@ PINECONE_API_KEY=YOUR_PINECONE_API_KEY
 ```bash
 python Tech_Agent.py
 ```
+
+## Usage
+
+1. API Key Replacement:
