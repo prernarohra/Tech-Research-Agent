@@ -60,4 +60,4 @@ python Tech_Agent.py
 - Replace YOUR_SERPAPI_KEY with your SERPAPI key.
 - Replace YOUR_PINECONE_API_KEY with your Pinecone API key.
   
-2. 
+2. Run the .py file: After setting up the environment, the program will be accessible.
