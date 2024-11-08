@@ -61,3 +61,5 @@ python Tech_Agent.py
 - Replace YOUR_PINECONE_API_KEY with your Pinecone API key.
   
 2. Run the .py file: After setting up the environment, the program will be accessible.
+
+3. Query for Information: Use the platform to ask questions or seek updates on tech news. The Hugging Face dataset enriches results by providing additional context from stored tech news articles.
