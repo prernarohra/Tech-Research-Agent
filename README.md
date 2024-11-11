@@ -64,7 +64,7 @@ python Tech_Agent.py
 
 3. Query for Information: Use the platform to ask questions or seek updates on tech news. The Hugging Face dataset enriches results by providing additional context from stored tech news articles.
 
-## Contributing
+## 🙌 Contributing
 
 Contributions are welcome! Please fork this repository, create a feature branch, and submit a pull request.
 
