@@ -67,3 +67,7 @@ python Tech_Agent.py
 ## Contributing
 
 Contributions are welcome! Please fork this repository, create a feature branch, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License.
