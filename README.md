@@ -53,7 +53,7 @@ PINECONE_API_KEY=YOUR_PINECONE_API_KEY
 python Tech_Agent.py
 ```
 
-## Usage
+## 🚀 Usage
 
 1. API Key Replacement:
 - Replace YOUR_OPENAI_API_KEY with your OpenAI API key.
